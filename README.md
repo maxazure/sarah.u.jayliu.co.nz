@@ -49,4 +49,4 @@ This project is open-source and available under the MIT License. Feel free to us
 
 ## Author
 Sarah Liu  
-📧 Haixialiu2017@gmail.com  
+📧 sarahliu.akl@gmail.com  
